@@ -1,0 +1,26 @@
+#timeoutCntr{
+	z-index : 9999;
+ 	position : absolute;
+	border : 1px solid black;
+	width :  300px;
+	background-color : #ffffa2;
+	padding: 20px 5px 5px 70px;
+	top : 70px;
+}
+#timeoutCntr button{
+	position:absolute;
+	left : 2px;
+	top : 3px;
+
+}
+.warning{
+	color : red;
+}
+
+.appLogorat {
+	background : #fff url(../../images/logos/logo_rat_bg.gif) no-repeat left;
+}
+
+.appLogozps {
+	background : #fff url(../../images/logos/ZKS_small.gif) no-repeat left;
+}
